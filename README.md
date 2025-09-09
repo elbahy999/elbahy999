@@ -30,17 +30,13 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=py)]()
-[![My Skills](https://skillicons.dev/icons?i=powershell)]()
-[![My Skills](https://skillicons.dev/icons?i=docker)]()
-[![My Skills](https://skillicons.dev/icons?i=mysql)]()
-[![My Skills](https://skillicons.dev/icons?i=pytorch)]()
-[![My Skills](https://skillicons.dev?i=cpp)]()
-[![My Skills](https://skillicons.dev/icons?i=pandas)]()
-[![My Skills](https://skillicons.dev/icons?i=seaborn)]()
-[![My Skills](https://skillicons.dev/icons?i=sqlserver)]()
-[![My Skills](https://skillicons.dev/icons?i=airflow)]()
-[![My Skills](https://skillicons.dev/icons?i=git)]()
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=py,powershell,docker,mysql,pytorch,cpp,seaborn,pandas,sqlserver,airflow,git"
+    />
+  </a>
+</p>
 
 
 ![elbahy999's Stats](https://github-readme-stats.vercel.app/api?username=elbahy999&theme=darcula&show_icons=true&hide_border=true&count_private=true)
