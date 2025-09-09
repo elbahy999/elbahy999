@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elbahy999&" alt="elbahy999" /></p>
 
+![elbahy999's Stats](https://github-readme-stats.vercel.app/api?username=elbahy999&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
