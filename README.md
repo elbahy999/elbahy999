@@ -20,10 +20,29 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.hackerrank.com/elbahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elbahy" height="30" width="40" /></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/elbahy999)
+[![My Skills](https://skillicons.dev/icons?i=hackerrank)](https://www.hackerrank.com/profile/elbahy)
+[![My Skills](https://skillicons.dev/icons?i=x)](https://x.com/elbahy999)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/elbahyu/)
+[![My Skills](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@elbahy999)
+[![My Skills](https://skillicons.dev/icons?i=steam)](https://steamcommunity.com/id/elbahy999/)
 
 <h3 align="left">Languages and Tools:</h3>
 
-
 ![elbahy999's Stats](https://github-readme-stats.vercel.app/api?username=elbahy999&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+[![My Skills](https://skillicons.dev/icons?i=py)]()
+[![My Skills](https://skillicons.dev/icons?i=powershell)]()
+[![My Skills](https://skillicons.dev/icons?i=docker)]()
+[![My Skills](https://skillicons.dev/icons?i=mysql)]()
+[![My Skills](https://skillicons.dev/icons?i=pytorch)]()
+[![My Skills](https://skillicons.dev?i=cpp)]()
+[![My Skills](https://skillicons.dev/icons?i=pandas)]()
+[![My Skills](https://skillicons.dev/icons?i=seaborn)]()
+[![My Skills](https://skillicons.dev/icons?i=sqlserver)]()
+[![My Skills](https://skillicons.dev/icons?i=airflow)]()
+[![My Skills](https://skillicons.dev/icons?i=git)]()
+
+
+
+
 
