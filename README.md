@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elbahy999" alt="elbahy999" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+<p align="left">[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+
+<p align="left">[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 <a href="https://www.hackerrank.com/elbahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elbahy" height="30" width="40" /></a>
 </p>
 
