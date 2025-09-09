@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 <p align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
---<a href="https://instagram.com/elbahyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elbahyu" height="30" width="40" /></a>
 
-
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 <a href="https://www.hackerrank.com/elbahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elbahy" height="30" width="40" /></a>
 </p>
 
