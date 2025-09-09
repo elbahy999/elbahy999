@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-![elbahy999's Stats](https://github-readme-stats.vercel.app/api?username=elbahy999&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
 [![My Skills](https://skillicons.dev/icons?i=py)]()
 [![My Skills](https://skillicons.dev/icons?i=powershell)]()
 [![My Skills](https://skillicons.dev/icons?i=docker)]()
@@ -41,6 +41,9 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=sqlserver)]()
 [![My Skills](https://skillicons.dev/icons?i=airflow)]()
 [![My Skills](https://skillicons.dev/icons?i=git)]()
+
+
+![elbahy999's Stats](https://github-readme-stats.vercel.app/api?username=elbahy999&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
 
 
