@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://www.hackerrank.com/elbahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elbahy" height="30" width="40" /></a>
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/elbahy999)
 [![My Skills](https://skillicons.dev/icons?i=hackerrank)](https://www.hackerrank.com/profile/elbahy)
 [![My Skills](https://skillicons.dev/icons?i=x)](https://x.com/elbahy999)
