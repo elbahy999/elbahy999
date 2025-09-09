@@ -19,14 +19,6 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/elbahy999" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
-<a href="https://www.hackerrank.com/profile/elbahy" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank"></a>
-<a href="https://x.com/elbahy999" target="_blank"><img src="https://skillicons.dev/icons?i=x" alt="X"></a>
-<a href="https://www.instagram.com/elbahyu/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>
-<a href="https://www.youtube.com/@elbahy999" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" alt="YouTube"></a>
-<a href=(https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/elbahy999) alt="linkedin"></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
