@@ -72,3 +72,8 @@ Here are some ideas to get you started:
 </p>
 
 ---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elbahy999&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+
+
+
