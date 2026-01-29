@@ -79,3 +79,9 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=elbahy999&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+<div align="center">
+<sub>Built with ❤️ by Ziad El-Bahy</sub>
+</div>
