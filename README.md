@@ -72,8 +72,11 @@ Here are some ideas to get you started:
 </p>
 
 ---
+## 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elbahy999&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
-
-
-
+<div align="center">
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elbahy999&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elbahy999&layout=compact)
+  
+</div>
