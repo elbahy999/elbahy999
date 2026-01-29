@@ -75,8 +75,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elbahy999&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elbahy999&layout=compact)
-  
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=elbahy999&theme=tokyonight&hide_border=true)
+
 </div>
