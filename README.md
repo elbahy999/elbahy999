@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 ### Data Engineer & Ai Engineer
 <img src="https://komarev.com/ghpvc/?username=elbahy999&label=Profile%20views&color=0e75b6&style=flat" alt="elbahy999" /> </p>
 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/elbahy)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/elbahy999)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elbahy999)
 
 
 
