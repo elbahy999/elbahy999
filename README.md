@@ -28,10 +28,8 @@ Here are some ideas to get you started:
 </div>
 
 ## 👋 About Me
-
-👋 Hi, I’m Ziad El-Bahy, a Computer Science student with a strong interest in Machine Learning & AI.
-I enjoy building end-to-end ML pipelines from data preprocessing and feature engineering to model training and evaluation.
-My background in data engineering helps me work confidently with large datasets and production-ready workflows.
+Computer Science student focused on Machine Learning & AI, with experience in end-to-end ML pipelines and data-driven systems.
+Strong data engineering background for handling large datasets and production workflows.
 
 ### 🔭 What I'm Working On
 - Building machine learning pipelines using Python, scikit-learn, and TensorFlow
