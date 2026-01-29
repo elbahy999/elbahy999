@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 # Ziad El-Bahy
 ### Data Engineer & Ai Engineer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Data+Engineer+%7C+AI+Engineer;Machine+Learning+Expert;Computer+Vision+Specialist;Innovation+Through+Code)](https://git.io/typing-svg)
+
 <img src="https://komarev.com/ghpvc/?username=elbahy999&label=Profile%20views&color=0e75b6&style=flat" alt="elbahy999" /> </p>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/elbahy)
