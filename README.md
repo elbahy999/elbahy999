@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Ziad El-Bahy
 ### Data Engineer & Ai Engineer
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Data+Engineer+%7C+AI+Engineer;Machine+Learning+Expert;Computer+Vision+Specialist;Innovation+Through+Code)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Data+Engineer+|+AI+Engineer;2%2B+Years+of+Development+Experience)
 
 <img src="https://komarev.com/ghpvc/?username=elbahy999&label=Profile%20views&color=0e75b6&style=flat" alt="elbahy999" /> </p>
 
