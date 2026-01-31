@@ -115,7 +115,7 @@ Strong data engineering background for handling large datasets and production wo
 
 <div align="center">
   
-<sub>Built with ❤️ by Ziad El-Bahy</sub>
+<sub>Built by Ziad El-Bahy ❤️ </sub>
 
 </div>
 
